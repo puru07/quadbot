@@ -1,4 +1,4 @@
 quadbot
 =======
-
-it contains materials regarding the experiments on quadrupeds at IIT guwhati
+Here is the demo Video of the project
+http://www.instructables.com/id/QuadBot/
